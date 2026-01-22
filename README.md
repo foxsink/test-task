@@ -1,4 +1,4 @@
-# [Task Description](https://code.visualstudio.com/)
+# [Task Description](https://github.com/foxsink/test-task/blob/main/TaskDescription.md)
 
 # test-task
 
