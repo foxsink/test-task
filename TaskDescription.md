@@ -10,7 +10,7 @@
 </br>
 
 
-![IMAGE](image.png "Image")
+![IMAGE](TaskDescriptionImage.png "Image")
 
 Задача: сделать рабочую страницу с изображения.
 
